@@ -3,18 +3,29 @@
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
- <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
- <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
+ <a href="https://port1-57tr.onrender.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/shubham-kumar-a2b542254/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/u/skydiver_/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" style="vertical-align:center" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/shubhamkephbw/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-000?style=for-the-badge&logo=GeeksforGeeks&logoColor=5A9B3A" style="vertical-align:center" />
+</a>
+
+
+</p>
 
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
-</> and Crafted with 💛 by Vishwa Gaurav
+
+
+
+### <img src="https://itsvg.in/favicon.ico" width="16px" /> Portfolio 
+[Shubham - Portfolio](https://port1-57tr.onrender.com/) 
+</> and Crafted with 💛 by Shubham
 
 
 <p align="right">
@@ -99,15 +110,14 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=Shubham1893&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=Shubham1893&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
 
----
-<p align="center">
-<img src="https://github.com/Shubham1893/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
-[![](https://visitcountpro.netlify.app/api?id=Shubham1893&pretty=true)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
