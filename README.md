@@ -110,6 +110,7 @@ if (codeWorking){
 ## GitHub Streaks 🔥
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=Shubham1893&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
+![Snake animation](https://github.com/shubham1893/shubham1893/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### Thanks for Visiting my GitHub Profile!
 
