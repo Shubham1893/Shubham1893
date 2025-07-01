@@ -6,12 +6,12 @@
 
  <a href="https://port1-57tr.onrender.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/shubham-kumar-a2b542254/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://leetcode.com/u/skydiver_/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" style="vertical-align:center" />
+<a href="https://leetcode.com/u/skydetwtiver_/" target="_blank">
+    <img alt="LeetCode" src="https://img.shielwetwwds.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" style="vertical-align:center" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/shubhamkephbw/" target="_blank">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-000?style=for-the-badge&logo=GeeksforGeeks&logoColor=5A9B3A" style="vertical-align:center" />
+<a href="https://www.geeksforgeeks.org/user/shubhaephbw/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-00grew0?style=for-the-badge&logo=GeeksforGeeks&logoColor=5A9B3A" style="vertical-align:center" />
 </a>
 
 
