@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/b5a2FzC.gif" alt="Animated Developer Banner">
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi 👋, I'm Shubham</h1>
